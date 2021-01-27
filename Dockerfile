@@ -1,1 +1,1 @@
-FROM nvidia/cuda:10.2-cudnn8-devel-centos7
+FROM nvidia/cuda:10.0-cudnn7-devel-centos7
